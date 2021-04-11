@@ -1,4 +1,4 @@
-module.exports.PORT = 8008;
+module.exports.PORT = 8000;
 
 module.exports.CORS_OPTIONS = {
   origin: ["*", /localhost/],
